@@ -1,0 +1,15 @@
+PROJET cpp
+
+Gestion des Abonnés pour une Bibliothèque
+Ajouter un abonné avec nom, identifiant, et date d'adhésion
+Gerer les emprunts
+Consulter l'historique d'emprunt d'un abonné.
+Mettre à jour les informations personnelles d'un abonné.
+Afficher la liste des abonnés en retard pour retourner de Sauvegarder et charger les informations des abonnés
+
+
+MEMBRES DU GROUPE
+
+SANOU Clément Hilaire
+SANOU David Solayman Hudan
+SAWADOGO Abdoul Fataf Sébastien
